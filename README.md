@@ -1,4 +1,5 @@
 # WIFI-vehicule-remote-control
+ATTENTION: PROJET EN COURS DE DEVELOPPEMENT - PRESENCE DE BUGS
 Conduite à distance par wifi de véhicules équipés d'un raspberry pi.  
 Ce projet est initialement prévu pour la conduite de modéles réduits de matériels ferrovières.
 Utilisation d'un serveur de messagerie pour communiquer entre un qg et les véhicules. (fichier serveur.py)
